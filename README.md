@@ -1,5 +1,6 @@
 # Engineering Manager Resources 
  A list of engineering manager resource links.
+ Super good material
 
 ## Mentoring
  * [Plato](https://www.platohq.com/)
